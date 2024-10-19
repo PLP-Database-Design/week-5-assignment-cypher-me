@@ -1,0 +1,25 @@
+{
+  "name": "week-5-assignment-cypher-me",
+  "version": "1.0.0",
+  "description": "This demonstrates the cconnection of MySQL database and Node.js to create a simple API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-Database-Design/week-5-assignment-cypher-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-Database-Design/week-5-assignment-cypher-me/issues"
+  },
+  "homepage": "https://github.com/PLP-Database-Design/week-5-assignment-cypher-me#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7"
+  }
+}

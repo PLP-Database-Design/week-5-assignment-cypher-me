@@ -1,0 +1,4 @@
+.env
+node_modules
+server2.js
+package-lock.json
